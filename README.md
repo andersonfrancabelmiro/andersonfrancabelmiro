@@ -27,8 +27,7 @@
 
 ## 🎯 Currently
 
-Improving backend development skills and database knowledge.
-
+🚀 Seeking internship opportunities in Backend Development.
 ---
 
 📫 Open to internship opportunities in development.
