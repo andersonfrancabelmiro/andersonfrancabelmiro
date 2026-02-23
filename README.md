@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Anderson Belmiro
 
 🎓 Information Technology Student  
-💻 Focused on Backend Development  
-📚 Studying Java, SQL and Python  
+💻 Backend Developer in Training  
+📚 Java | SQL | Python
 
 ---
 
